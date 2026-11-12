@@ -1,6 +1,6 @@
 # Evaluating Information-Overload Jailbreaks in Large Language Models
 
-Code for the BSc (Hons) Computer Science honours project by **[Your Name]**, [University], 2026.
+Code for the BSc (Hons) Computer Science honours project by ** Diya Sharma**, Ediburgh Napier University, 2026.
 
 This repository contains the full experiment pipeline behind the dissertation. It tests whether hiding a harmful instruction inside a long, benign document weakens a model's safety behaviour. It also tests whether any failure is a **retrieval failure** (the model missed the instruction) or a **safety failure** (the model saw it and complied anyway).
 
